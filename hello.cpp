@@ -6,7 +6,7 @@ int main() {
 
     string name;
 
-    cout << "Hi! Please enter your beautiful name: ";
+    cout << "Hi! Please enter your beautiful or handsome name: ";
     cin >> name;
     cout << "Hello, " << name << "!" << endl;
 }
